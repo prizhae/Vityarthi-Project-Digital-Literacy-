@@ -1,7 +1,7 @@
 # Digital Literacy & Cyber Safety Projects Portfolio
 
 # Student Details
-- **Name:** Prisha Aroa 
+- **Name:** Prisha Arora 
 - **Registration Number:** 25BAI10290
 - **Course / Branch:** CSE [AI & ML]
 - **College Name:** VIT Bhopal
